@@ -1,4 +1,3 @@
-import React from "react";
 import type { IModalOrderProps } from "@/utils/types";
 
 import { Dialog, Typography, Button } from "@/components/Core";
